@@ -1,5 +1,7 @@
 # Deep Dish Apple Pie:
 
+![image of deep-dish apple pie](static/deepdish_applepie.jpg)
+
 ## Homemade Pie Crust Recipe:
 * 2-1/2 C / 315g _all-purpose flour_
 * 1 t _salt_
