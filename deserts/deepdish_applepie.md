@@ -40,6 +40,9 @@
 
 [Original recipe link](https://sallysbakingaddiction.com/deep-dish-apple-pie/)
 
+
+### Steps:
+
 1. Stir together the _apple slices, flour, lemon juice, cinnamon, allspice, nutmeg_ and set aside to rest  
 2. pre-heat oven to **400F**
 3. Assemble pie like is typical and complete the lattice-work. Sprinkle _coarse sugar_ on top for decoration
